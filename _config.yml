@@ -90,7 +90,7 @@ service-worker: true
 
 
 # Websites
-Websites: [
+friends: [
     {
         title: "Google scholar",
         href: "https://scholar.google.com/citations?user=K9-wKs8AAAAJ&hl=en"
