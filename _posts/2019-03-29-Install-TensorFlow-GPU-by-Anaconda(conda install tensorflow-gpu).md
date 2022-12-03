@@ -7,10 +7,7 @@ author:     Wang Pei
 header-img: img/art-Anaconda-TensorFlow.jpg
 catalog: true
 tags:
-    - ubuntu
-    - TensorFlow
-    - 深度学习
-    - CUDA
+    - Template
 ---
 
 
